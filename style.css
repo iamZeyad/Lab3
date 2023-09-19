@@ -1,0 +1,22 @@
+.image-preview img{
+    width: 100px;
+    border-top: 30px solid  skyblue;
+    border-right: 30px solid lightpink;
+    border-left: 30px solid #ffefd5;
+    border-bottom: 30px solid lightgreen;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd; /* Add a bottom border to separate rows */
+  }
+
+  tr:nth-child(even) {
+    background-color: #f2f2f2; /* Add a background color to even rows for better readability */
+  }
