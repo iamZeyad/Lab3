@@ -20,3 +20,22 @@ table {
   tr:nth-child(even) {
     background-color: #f2f2f2; /* Add a background color to even rows for better readability */
   }
+
+  red{
+    color: red;
+  }
+  green{
+    color: green;
+  }
+  pink{
+    color: pink;
+  }
+  red{
+    color: red;
+  }
+  orange{
+    color: orange;
+  }
+  blue{
+    color: blue;
+  }
